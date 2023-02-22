@@ -1,5 +1,6 @@
 p {
     font-style: italic;
+    font-family: 'Shantell Sans', cursive;
 }
 div, p, span{ font-size: 12pt;}
 
@@ -7,10 +8,12 @@ div, p, span{ font-size: 12pt;}
 span{
     background-color: wheat;
     font-weight: bold;
+    font-family: 'Shantell Sans', cursive;
 }
 a {
     font-size: larger;
     font-weight: bold;
     background-color: black;
     color: aliceblue;
+    font-family: 'Shantell Sans', cursive;
 }
