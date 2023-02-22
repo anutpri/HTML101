@@ -16,4 +16,8 @@ a {
     background-color: black;
     color: aliceblue;
     font-family: 'Shantell Sans', cursive;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    display: inline-block;
 }
